@@ -1,11 +1,11 @@
 # EASYBANK-A-Voice-Banking-App
 This is an Android application that allows users to perform basic banking operations through voice commands. The application uses API to interact with a backend server and performs operations such as account creation, account History, balance inquiry, and viewing account details.
 
-Installation:
+# Installation:
 
 To use the Voice Banking Android Application, you must first download and install the APK file onto your Android device. 
 
-Sign Up:
+# Sign Up:
 
 •	To create an account, open the app and say ‘sign up’.
 
@@ -13,13 +13,13 @@ Sign Up:
 
 •	You may add other details after you logged in. By saying ‘update’ command
 
-Log In:
+# Log In:
 
 •	Once you have created an account, provide Username and Pin number for log in to your account.
 
 •	After logging in, you will be taken to the home page of the app
 
-Commands and its functions:
+# Commands and its functions:
 
 	If you want to know details, say “details"
 
@@ -40,7 +40,7 @@ Commands and its functions:
 	Users may also know these instructions in Help page by tapping “Get help” Button
 
 
-Help Page:
+# Help Page:
 
 •	This page contains user manual and developer details.
 
